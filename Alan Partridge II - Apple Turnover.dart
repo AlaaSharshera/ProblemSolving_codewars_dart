@@ -13,7 +13,7 @@ String apple(dynamic a) {
 }
 
 void main() {
-  //for test
+  //for Test
   print(apple('250'));
   print(apple(8));
 }
