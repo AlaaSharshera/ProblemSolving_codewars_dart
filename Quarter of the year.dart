@@ -8,6 +8,7 @@ int quarter(int month) {
       return 3;
     } else {
       return 4;
+      
     }
   }
   return 0;
